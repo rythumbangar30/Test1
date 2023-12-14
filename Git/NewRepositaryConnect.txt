@@ -1,0 +1,9 @@
+git status
+git init
+git add .
+git commit -m "Message"
+git remote add origin "Link of URL"
+//for Checking the branch you can use - git branch
+git push -u origin branchname
+//For creating an new branch
+git checkout -b Name
