@@ -1,5 +1,15 @@
+//Defination
 //The runtime error is called an exception and the mechnaism that handle
 //error at runtime is called Exception Handling mechanism.
+
+//Concepts
+//if super class method exception subclass overriden method can declare same
+//subclass exception or no exception but cannot declare parent exception
+//see Example Exception9
+
+// if super class method didn't declare exception , subclass overriden method
+//can't declare checked exception but can declare unchecked exception
+//see Example Exception8
 package org.example;
 
 public class Exception1 {
