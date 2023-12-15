@@ -1,3 +1,5 @@
+//The runtime error is called an exception and the mechnaism that handle
+//error at runtime is called Exception Handling mechanism.
 package org.example;
 
 public class Exception1 {
